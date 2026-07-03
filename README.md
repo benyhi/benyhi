@@ -143,5 +143,5 @@ Backend API for an e-commerce project, focused on product management, business r
 # 📫 Contact
 
 * Email: <a href="mailto:benjasosadev@gmail.com">[benjasosadev@gmail.com](mailto:benjasosadev@gmail.com)</a>
-* LinkedIn: <a href="https://www.linkedin.com/in/benjamin-sosa/">LinkedIn Profile</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/benjamin-sosa">LinkedIn Profile</a>
 * GitHub: <a href="https://github.com/benyhi">@benyhi</a>
