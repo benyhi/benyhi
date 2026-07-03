@@ -76,7 +76,6 @@ Probably coding with a mate 🧉 nearby.
 # 📌 Featured Projects
 
 ### Documentation RAG
-
 <a href="https://github.com/benyhi/documentation_rag" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation RAG Repository" />
 </a>
@@ -86,7 +85,6 @@ RAG-based backend project for querying documentation using embeddings, structure
 <br />
 
 ### Semantic Search
-
 <a href="https://github.com/benyhi/sematic_search" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Semantic Search Repository" />
 </a>
@@ -96,7 +94,6 @@ Semantic search project focused on embeddings, vector-based similarity search an
 <br />
 
 ### Seller AI API
-
 <a href="https://github.com/benyhi/seller_ai_api" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Seller AI API Repository" />
 </a>
@@ -106,7 +103,6 @@ AI-powered backend API for a seller assistant, focused on automating sales-relat
 <br />
 
 ### Postas API
-
 <a href="https://github.com/benyhi/postas_api" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Postas API Repository" />
 </a>
@@ -116,7 +112,6 @@ Backend API for a SaaS-oriented POS system, including products, sales, users, ro
 <br />
 
 ### Postas Platform API
-
 <a href="https://github.com/benyhi/postas_platform_api" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Postas Platform API Repository" />
 </a>
@@ -128,7 +123,6 @@ It also includes an AI-powered invoice reading feature that extracts information
 <br />
 
 ### SIQUEM API
-
 <a href="https://github.com/benyhi/siquem_api" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SIQUEM API Repository" />
 </a>
@@ -138,7 +132,6 @@ Backend API for an internal management system focused on business operations, st
 <br />
 
 ### E-commerce API
-
 <a href="https://github.com/benyhi/ecommerce_api" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-commerce API Repository" />
 </a>
@@ -150,5 +143,5 @@ Backend API for an e-commerce project, focused on product management, business r
 # 📫 Contact
 
 * Email: <a href="mailto:benjasosadev@gmail.com">[benjasosadev@gmail.com](mailto:benjasosadev@gmail.com)</a>
-* LinkedIn: <a href="TU_LINKEDIN_URL">LinkedIn Profile</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/benjamin-sosa/">LinkedIn Profile</a>
 * GitHub: <a href="https://github.com/benyhi">@benyhi</a>
